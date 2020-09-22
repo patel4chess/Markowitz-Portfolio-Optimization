@@ -28,6 +28,5 @@ In 1952, Harry Markowitz published a formal portfolio selection model in The Jou
 According to Markowitz, for every point on the efficient frontier, there is at least one portfolio that can be constructed from all available investments that has the expected risk and return corresponding to that point.
 
 An example appears below. note how the efficient frontier allows investors to understand how a portfolio's expected returns vary with the amount of risk taken.
-https://investinganswers.com/images/Efficient-frontier-new(2).jpg
 
 
