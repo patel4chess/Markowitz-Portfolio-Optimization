@@ -19,7 +19,15 @@ company.
 Fundamental analysis of any company majorly comprises of quantitative analysis and qualitative
 analysis.
 
+What is Efficient Frontier?
+Different combinations of securities produce different levels of return. The efficient frontier represents the best of these securities combinations -- those that produce the maximum expected return for a given level of risk. The efficient frontier is the basis for modern portfolio theory.
 
+How Does Efficient Frontier Work?
+In 1952, Harry Markowitz published a formal portfolio selection model in The Journal of Finance. He continued to develop and publish research on the subject over the next twenty years, eventually winning the 1990 Nobel Prize in Economics for his work on the efficient frontier and other contributions to modern portfolio theory.
 
+According to Markowitz, for every point on the efficient frontier, there is at least one portfolio that can be constructed from all available investments that has the expected risk and return corresponding to that point.
+
+An example appears below. note how the efficient frontier allows investors to understand how a portfolio's expected returns vary with the amount of risk taken.
+https://investinganswers.com/images/Efficient-frontier-new(2).jpg
 
 
